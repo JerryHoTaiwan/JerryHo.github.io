@@ -35,6 +35,15 @@ Research experience
 * Summer Intern, Dept. of Multimedia in Mediatek, July 2018 - August 2018
   * Develop the framework to run and evaluate PDAF algorithms
 
+Teaching experience
+======
+* Teaching Assistan, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
+  * EE1006: Cornerstone EECS Design and Development
+    * Design the final project that inspires student to optimize hardware and searching algorithm
+    * Instruct freshman students in designing a self-driving car that searches the map automatically
+    * Introduce basic skills (Algorithms, Python, Arduino, and Bluetooth) to freshman students
+    * Supervisor: Prof. Chien-Mo Li
+
 Publications
 ======
   <ul>{% for post in site.publications %}
