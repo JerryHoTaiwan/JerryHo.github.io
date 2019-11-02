@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Won the first prize in NTUEE Undergraduate Innovation Award 2019<br/><img src='/images/Innovation_award.jpg'>"
 collection: portfolio
 ---
 
