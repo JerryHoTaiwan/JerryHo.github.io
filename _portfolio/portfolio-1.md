@@ -1,6 +1,6 @@
 ---
 title: "Won the first prize in NTU Undergraduate Innovation Award 2019"
-excerpt: "Very pleased to graduate from NTU with this honarable award. <br/><img src='/images/Innovation_award.jpg' >"
+excerpt: "Very pleased to graduate from NTU with this honarable award. <br/><img src='/images/Innovation_award.jpg' width='600' >"
 collection: portfolio
 ---
 
