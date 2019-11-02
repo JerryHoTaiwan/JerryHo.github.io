@@ -1,12 +1,12 @@
 ---
 title: "On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging"
 collection: publications
-permalink: /publication/EI2020
+permalink: /publication/TVLF
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-01-26
-venue: 'IEEE Transactions on Image Processing'
+venue: 'Electronic Imaging'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Chi-Jui, Ho, Chin-Cheng Chan, and Homer H. Chen, &quot;AF-Net: A Convolutional Neural NetworkApproach to Phase Detection Autofocus&quot; <i>IEEE Transactions on Image Processing</i> (Accepted)'
+citation: 'Chi-Jui, Ho and Homer H. Chen, &quot;On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging&quot; <i>Electronic Imaging 2020</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
