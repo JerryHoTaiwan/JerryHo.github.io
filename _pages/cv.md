@@ -17,10 +17,10 @@ Education
   
 Research experience
 ======
-* Full-time Research Assistant (with Prof. Sheng-Lung Huang and Prof. Homer H. Chen), July 2019-present
+* Full-time Research Assistant, July 2019-present
   * Project title:Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+    * Duties included: Tagging issues
+    * Supervisor: Prof. Sheng-Lung Huang and Prof. Homer H. Chen
 
 * Fall 2015: Research Assistant
   * Github University
