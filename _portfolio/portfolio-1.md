@@ -1,6 +1,6 @@
 ---
 title: "Won the first prize in NTUEE Undergraduate Innovation Award 2019"
-excerpt: "<br/><img src='/images/Innovation_award.jpg'>"
+excerpt: "<br/><img src='/images/Innovation_award.jpg' width="300" height="200">"
 collection: portfolio
 ---
 
