@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chi-Jui Ho"
   avatar           : "Jerry.jpg"
-  bio              : "I am a full-time research assistant in National Taiwan University"
+  bio              : "I am a full-time research assistant in National Taiwan University. My research interests include image processing, computer vision, and machine learning."
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : hochirijay@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,14 +106,14 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/channel/UCEVFKOKBzfK0IjC6RWy2anw
+  youtube          : https://www.youtube.com/channel/UCEVFKOKBzfK0IjC6RWy2anw?view_as=subscriber
   wikipedia        :
 
 
