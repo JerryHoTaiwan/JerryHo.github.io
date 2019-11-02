@@ -2,16 +2,16 @@
 title: "Object Detection"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-01-01-talk-1
+permalink: /talks/DLCV
 excerpt: "<br/><img src='/images/DLCV.png' width='600' >"
 venue: "NTU"
 date: 2019-06-01
 location: "Taipei, Taiwan"
 ---
-This is my final project of _Deep Learning on Computer Vision_ course. It is actually a work on few-shot learning. <br/>
+This is my final project of _Deep Learning on Computer Vision_ course. In fact, it is a work on few-shot learning. <br/>
 
-Pipelined architecture features in high throughput. Nevertheless, if we implement MIPS by this approach, we face many relating hazards such as data hazard, jump hazard, load hazard, and branch hazard. Moreover, compared to MIPS in textbook [1], the requirements for the final project need to support the additional class of jump operations (e.g. j, jal, jr, and jalr). Thus, when designing MIPS, we divide it into several stages. First, we implement it without hazard handling. Then, we introduce data hazard and jump hazard. Finally, we complete load hazard and branch hazard. Next, extensions merely modify the chip passing the baseline. <br/>
-This report is organized as follows. Section II presents the memory optimization, Section III presents the architecture optimization, and Section IV presents the extension optimization. Section V presents our synthesis settings and the corresponding results. Finally, Section VI concludes the report.
+We implemented a Siamese Network to compute the similarit score between images. However, we found it difficult to directly train a Siemese Network on the whole dataset. Thus, we designed a training schedule that gradually increases the training difficulty. After it converges, we fine-tuned the network on the images which has few labels. Through this special training schedule, we pass all the requirements in this task.
+
 <img src='/images/DLCV.png' width='600' >
 
 [Technical Poster](http://JerryHoTaiwan.github.io/files/DLCV_Report.pdf)
