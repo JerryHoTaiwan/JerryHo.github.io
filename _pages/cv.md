@@ -63,10 +63,5 @@ Skills
 * Programming Language: Python, C++, Verilog, Matlab, Latex
 * Language: Chinese (native speaker), English (fluent)
 * Frameworks: Pytorch, OpenCV
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
