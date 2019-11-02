@@ -5,19 +5,16 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - title: "Talks"
-    url: /talks/    
-
+    
   - title: "Research"
-    url: /research/    
+    url: /teaching/
+
+  - title: "Projects"
+    url: /talks/    
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Teaching"
-    url: /teaching/
 
