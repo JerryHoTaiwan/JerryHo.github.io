@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* B.S. in Dept. of Electrical Engineering in National Taiwan University, 2015-2019
+  * Overall GPA: 3.88/4.30
+  * Last-60 GPA: 4.10/4.30
+  
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
