@@ -50,6 +50,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Selected Course Taken
+======
+* Image Processing & Computer Vision: **Computer Vision: from recognition to geometry**, **Deep Learning for Computer Vision**
+* Artificial Intelligence: **Mathematical Principles of Machine Learning**, **Machine Learning**, Introduction to Artificial Intelligence and Machine Learning
+* Mathematics: **Convex Optimization**, **The Design and Analysis of Algorithms**, Discrete Mathematics
+* Hardware: Digital System Design, Integrated Circuit Design, Electrical Engineering Lab (digital Circuit), Power Electronics Laboratory
+(Graduate-level courses are shown in boldface)
+
 Skills
 ======
 * Programming Language: Python, C++, Verilog, Matlab, Latex
