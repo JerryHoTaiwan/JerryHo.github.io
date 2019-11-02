@@ -32,6 +32,9 @@ Research experience
     * Published papers in **IEEE Transactions on Image Processing** and **Electornic Imaging 2020**
     * Supervisor: Prof. Homer H. Chen
 
+* Summer Intern, Dept. of Multimedia in Mediatek, July 2018 - August 2018
+  * Develop the framework to run and evaluate PDAF algorithms
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -40,12 +43,9 @@ Publications
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, C++, Verilog, Matlab, Latex
+* Language: Chinese (native speaker), English (fluent)
+* Frameworks: Pytorch, OpenCV
   
 Talks
 ======
