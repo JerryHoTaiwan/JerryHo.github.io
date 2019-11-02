@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Analysis of OCT Images"
+title: "Deep Learning Analysis of OCT Images"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/OCT.jpg' width='600' >"
