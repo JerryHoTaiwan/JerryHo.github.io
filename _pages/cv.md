@@ -29,7 +29,7 @@ Research experience
     * Gave the demo video in Computex 2019 on behalf of the lab
     * Funded by Ministry of Science and Technology
     * Proposed a novel autofocus approach that finds the in-focus position in three lens movementsregardless of noise
-    * Published papers in _IEEE Transactions on Image Processing_ and _Electornic Imaging 2020_
+    * Published papers in **IEEE Transactions on Image Processing** and **Electornic Imaging 2020**
     * Supervisor: Prof. Homer H. Chen
 
 Publications
