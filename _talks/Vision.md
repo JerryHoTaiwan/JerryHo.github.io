@@ -12,6 +12,6 @@ This is my final project of _Computer Vision: from recognition to geometry_ cour
 
 In this project, we were given ten pairs of realistic stereo images. For these images, depth estimation is challenging since the presence of negative impact such as reflection and bokeh effect. To address the issue, we designed a specific pipelined algorithm. Besides optimizing the existing parts, we add following extensions to further improve the accuracy and reliability:  histogram equalization, image segmentation, and using SURF to estimate the range of disparity. We won the **fist prize** in the competitoin of this project because of our innovation and performance.
 
-<img src='/images/Vision.PNG' width='600' >
+<img src='/images/Vision.png' width='600' >
 
 [Technical Report](http://JerryHoTaiwan.github.io/files/CV_Report.pdf)
