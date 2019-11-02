@@ -17,5 +17,5 @@ I have worked on this project since my junior year. PDAF is a technique that est
 
 Awards of this research
 ======
-**First Prize** in NTU Undergraduate Innovation Award
+**First Prize** in NTU Undergraduate Innovation Award <br/>
 College Student Research Creativity Award
