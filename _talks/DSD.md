@@ -2,7 +2,7 @@
 title: "Pipelined MIPS Design"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-01-01-talk-1
+permalink: /talks/DSD
 excerpt: "<br/><img src='/images/DSD.png' width='600' >"
 venue: "NTU"
 date: 2019-06-01
