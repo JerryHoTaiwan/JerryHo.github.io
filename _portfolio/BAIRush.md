@@ -1,6 +1,6 @@
 ---
 title: "Attended AI Rush On behalf of Taiwan"
-excerpt: "Very pleased to graduate from NTU with this honor. <br/><img src='/images/AI_rush.jpg' width='600' >"
+excerpt: "A great chance to behalf our country <br/><img src='/images/AI_rush.jpg' width='600' >"
 collection: portfolio
 ---
 
