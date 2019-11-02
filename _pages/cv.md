@@ -11,22 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dept. of Electrical Engineering in National Taiwan University, 2015-2019
+* B.S. in Dept. of Electrical Engineering in National Taiwan University (NTU), 2015-2019
   * Overall GPA: 3.88/4.30
   * Last-60 GPA: 4.10/4.30
   
 Research experience
 ======
-* Full-time Research Assistant, July 2019-present
-  * Project title:Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
-    * Duties included: Tagging issues
+* Full-time Research Assistant, NTU, 2019-present
+  * Project title: Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
+    * Improved the classification accuracy by 10% with architecture modification and regularization
+    * Further analyzed the image features by network visualization
+    * Mentored an undergraduate student on the OCT team
     * Supervisor: Prof. Sheng-Lung Huang and Prof. Homer H. Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Undergraduate Research Assistant, NTU, September 2017 - June 2019
+  * Project title: Accelerate Phase Detection Autofocus (PDAF)
+    * Gave the demo video in Computex 2019 on behalf of the lab
+    * Funded by Ministry of Science and Technology
+    * Proposed a novel autofocus approach that finds the in-focus position in three lens movementsregardless of noise
+    * Published papers in _IEEE Transactions on Image Processing_ and _Electornic Imaging 2020_
+    * Supervisor: Prof. Homer H. Chen
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Skill 1
@@ -35,12 +46,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
