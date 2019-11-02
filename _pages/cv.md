@@ -50,6 +50,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Honors and Awards
+======
+* **1st Prize** in NTUEE Undergraduate Innovation Award, the highest honor of undergraduate researcher in NTUEE.
+* On behalf of Taiwan to attend AIRush, an Asia-wide AI contest, and ranked 6th.
+* College Student Research Creativity Award (Ranked top 10 % in 2000 funded projects)
+* College Student Research Scholarship
+* **1st Place** in the final project contest of Computer Vision course (see projects)
+* **1st Place** in the final project contest of Digital System Design course (see projects)
+
 Selected Course Taken
 ======
 * Image Processing & Computer Vision: **Computer Vision: from recognition to geometry**, **Deep Learning for Computer Vision**
