@@ -1,5 +1,5 @@
 ---
-title: "On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging"
+title: "On the Distinction between Phase images and Two-View Light Field for PDAF of Mobile Imaging"
 collection: publications
 permalink: /publication/BTVLF
 
