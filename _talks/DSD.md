@@ -1,10 +1,10 @@
 ---
 title: "Pipelined MIPS Design"
 collection: talks
-type: "Talk"
+type: "Final Project"
 permalink: /talks/DSD
 excerpt: "<br/><img src='/images/DSD.png' width='600' >"
-venue: "NTU"
+venue: "Digital System Design"
 date: 2019-06-01
 location: "Taipei, Taiwan"
 ---
