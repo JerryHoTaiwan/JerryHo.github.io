@@ -1,7 +1,7 @@
 ---
 title: "On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging"
 collection: publications
-permalink: /publication/TVLF
+permalink: /publication/BTVLF
 
 date: 2020-01-26
 venue: 'Electronic Imaging'
