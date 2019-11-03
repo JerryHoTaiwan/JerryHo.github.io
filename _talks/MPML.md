@@ -1,10 +1,10 @@
 ---
 title: "A Survey of Optimization in Deep Neural Network"
 collection: talks
-type: "Talk"
+type: "Final Project"
 permalink: /talks/2019-06-01-talk-1
 excerpt: "<br/><img src='/images/MPML.PNG' width='600' >"
-venue: "NTU"
+venue: "Mathematical Principle of Machine Learning"
 date: 2019-06-01
 location: "Taipei, Taiwan"
 ---
