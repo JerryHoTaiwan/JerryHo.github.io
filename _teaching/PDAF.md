@@ -4,7 +4,7 @@ collection: teaching
 type: "Image Processing"
 permalink: /teaching/PDAF
 excerpt: "Enhance the speed, accuracy, and robustness of PDAF <br/><img src='/images/PDAF.jpg' width='600' >"
-venue: "Multimedia Processing and Communications Lab"
+venue: "National Taiwan University"
 data: 2019-06-01
 location: "Taipei, Taiwan"
 ---
