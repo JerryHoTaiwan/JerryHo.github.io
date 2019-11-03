@@ -5,7 +5,7 @@ type: "Final Project"
 permalink: /talks/DLCV
 excerpt: "<br/><img src='/images/DLCV.PNG' width='600' >"
 venue: "Deep Learning on Computer Vision"
-date: 2019-06-01
+date: 2018-06-30
 location: "Taipei, Taiwan"
 ---
 This is my final project of _Deep Learning on Computer Vision_ course. In fact, it is a work on few-shot learning. <br/>
