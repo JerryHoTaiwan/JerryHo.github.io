@@ -1,10 +1,9 @@
 ---
 title: "Deep Learning Analysis of OCT Images"
 collection: teaching
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/OCT
 excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/OCT.jpg' width='600' >"
-venue: "Dept. of Electrical Engineering of National Taiwan University"
-date: 2019-07-01
+venue: "Grad of National Taiwan University"
 location: "Taipei, Taiwan"
 ---
 
