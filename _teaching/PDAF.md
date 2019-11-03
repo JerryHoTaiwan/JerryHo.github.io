@@ -1,9 +1,9 @@
 ---
-title: "Accelerating Phase Detection Autofocus"
+title: "Accelerate Phase Detection Autofocus"
 collection: teaching
 type: "Image Processing"
 permalink: /teaching/PDAF
-excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/PDAF.jpg' width='600' >"
+excerpt: "Enhance the speed, accuracy, and robustness of PDAF <br/><img src='/images/PDAF.jpg' width='600' >"
 venue: "Multimedia Processing and Communications Lab"
 data: 2019-06-01
 location: "Taipei, Taiwan"
