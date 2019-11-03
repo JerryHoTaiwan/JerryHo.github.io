@@ -1,11 +1,11 @@
 ---
 title: "Realistic Depth Map Generation"
 collection: talks
-type: "Talk"
+type: "Final Project"
 permalink: /talks/2019-01-01-talk-1
 excerpt: "<br/><img src='/images/Vision.png' width='600' >"
-venue: "NTU"
-date: 2019-06-01
+venue: "Computer Vision"
+date: 2019-01-01
 location: "Taipei, Taiwan"
 ---
 This is my final project of _Computer Vision: from recognition to geometry_ course. This project is held by Mediatek. <br/>
