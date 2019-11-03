@@ -6,7 +6,7 @@ permalink: /publication/BTVLF
 date: 2020-01-26
 venue: 'Electronic Imaging'
 
-citation: '<u>Chi-Jui Ho</u> and Homer H. Chen, &quot;On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging&quot; <i>Electronic Imaging 2020</i>.'
+citation: '<b>Chi-Jui Ho</b> and Homer H. Chen, &quot;On the Distinction between Phase images and Two-View LightField for PDAF of Mobile Imaging&quot; <i>Electronic Imaging 2020</i>.'
 ---
 <img src='/images/phaseimage.jpg' width='600' ><br/>
 
