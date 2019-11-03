@@ -1,5 +1,5 @@
 ---
-title: "AF-Net: A Convolutional Neural NetworkApproach to Phase Detection Autofocus"
+title: "AF-Net: A Convolutional Neural Network Approach to Phase Detection Autofocus"
 collection: publications
 permalink: /publication/AFNet
 
