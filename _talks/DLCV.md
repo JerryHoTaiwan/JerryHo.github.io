@@ -1,10 +1,10 @@
 ---
 title: "Object Detection"
 collection: talks
-type: "Talk"
+type: "Final Project"
 permalink: /talks/DLCV
 excerpt: "<br/><img src='/images/DLCV.PNG' width='600' >"
-venue: "NTU"
+venue: "Deep Learning on Computer Vision"
 date: 2019-06-01
 location: "Taipei, Taiwan"
 ---
