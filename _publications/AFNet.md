@@ -2,7 +2,7 @@
 title: "AF-Net: A Convolutional Neural NetworkApproach to Phase Detection Autofocus"
 collection: publications
 permalink: /publication/AFNet
-excerpt: '<img src='/images/DSD.png' width='600' >'
+excerpt: 'test <img src='/images/PDAF.jpg' width='600' >'
 date: 2020-08-01
 venue: 'IEEE Transactions on Image Processing'
 
