@@ -2,8 +2,10 @@
 title: "Deep Learning Analysis of OCT Images"
 collection: teaching
 permalink: /teaching/OCT
+type: Biomedical Imaging
 excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/OCT.jpg' width='600' >"
-venue: "Grad of National Taiwan University"
+venue: "National Taiwan University"
+date: 2019-07-01
 location: "Taipei, Taiwan"
 ---
 
