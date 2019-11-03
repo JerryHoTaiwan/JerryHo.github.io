@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PDAF
 excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/PDAF.jpg' width='600' >"
-venue: "Multimedia Processing and Communications Lab"
+
 data: 2019-06-01
 location: "Taipei, Taiwan"
 ---
