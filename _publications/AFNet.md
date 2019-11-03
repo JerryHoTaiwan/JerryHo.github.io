@@ -3,7 +3,7 @@ title: "AF-Net: A Convolutional Neural NetworkApproach to Phase Detection Autofo
 collection: publications
 permalink: /publication/AFNet
 
-date: 2020-01-26
+date: 2020-08-01
 venue: 'IEEE Transactions on Image Processing'
 
 citation: 'Chi-Jui Ho, Chin-Cheng Chan and Homer H. Chen, &quot;AF-Net: A Convolutional Neural NetworkApproach to Phase Detection Autofocus&quot; <i>IEEE Transactions on Image Processing</i> (Accepted).'
