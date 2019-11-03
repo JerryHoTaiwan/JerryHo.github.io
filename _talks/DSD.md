@@ -5,7 +5,7 @@ type: "Final Project"
 permalink: /talks/DSD
 excerpt: "<br/><img src='/images/DSD.png' width='600' >"
 venue: "Digital System Design"
-date: 2019-06-01
+date: 2018-06-01
 location: "Taipei, Taiwan"
 ---
 This is my final project of _Digital System Design_ course. We won the first prize in the competition of this project <br/>
