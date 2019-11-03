@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PDAF
 excerpt: "Deep learning analysis on biomedical images. <br/><img src='/images/PDAF.jpg' width='600' >"
-venue: "Dept. of Electrical Engineering of National Taiwan University"
-date: 2019-01-01
+venue: "Multimedia Processing and Communications Lab"
+
 location: "Taipei, Taiwan"
 ---
 
