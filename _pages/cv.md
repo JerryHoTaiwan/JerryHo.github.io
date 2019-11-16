@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_v4.pdf) <br/>
+
 Education
 ======
 * B.S. in Dept. of Electrical Engineering in National Taiwan University (NTU), 2015-2019
