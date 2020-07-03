@@ -19,7 +19,7 @@ citation: '<b>Chi-Jui Ho</b>, Chin-Cheng Chan and Homer H. Chen, "AF-Net: A Conv
 [PDF link](http://JerryHoTaiwan.github.io/files/AFNet_TIP.pdf) 
 
 [<img src='/images/youtube.png' width='60' >](http://JerryHoTaiwan.github.io/files/AFNet_TIP.pdf)
-[Demo Video](http://JerryHoTaiwan.github.io/files/AFNet_TIP.pdf)
+[Demo Video](https://www.youtube.com/watch?v=9_BJ8C9Q8_k)
 <br/>
 {% comment %} 
 {% endcomment %}
