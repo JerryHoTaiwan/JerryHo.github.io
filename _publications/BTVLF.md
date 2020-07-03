@@ -11,7 +11,7 @@ citation: '<b>Chi-Jui Ho</b> and Homer H. Chen, &quot;On the Distinction between
 <img src='/images/phaseimage.jpg' width='600' ><br/>
 
 <br/>
-[<img src='/images/EI.jpeg' width='60' >](https://doi.org/10.2352/ISSN.2470-1173.2020.14.COIMG-390)
+[<img src='/images/EI.gif' width='60' >](https://doi.org/10.2352/ISSN.2470-1173.2020.14.COIMG-390)
 [IS&T web link](https://doi.org/10.2352/ISSN.2470-1173.2020.14.COIMG-390)
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/EI_PDAF_TVLF.pdf)
 [PDF link](http://JerryHoTaiwan.github.io/files/EI_PDAF_TVLF.pdf) <br/>
