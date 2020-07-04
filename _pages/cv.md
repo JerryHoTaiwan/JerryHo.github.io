@@ -13,9 +13,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dept. of Electrical Engineering in National Taiwan University (NTU), 2015-2019
+* UC San Diego (will start from 2020 FALL)
+  * Will start Ph.D. study in Electrical and Computer Engineering with specialization in Signal and Image Processing.
+
+* National Taiwan University (NTU), 2015-2019
+  * Recieved B.S. degree in Dept. of Electrical Engineering
+  * advisor: [Homer H. Chen](http://mpac.ee.ntu.edu.tw/) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
   * Overall GPA: 3.88/4.30
-  * Last-60 GPA: 4.10/4.30
   
 Research experience
 ======
