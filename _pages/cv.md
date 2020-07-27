@@ -25,8 +25,7 @@ Research experience
 ======
 * Full-time Research Assistant, NTU, 2019-present
   * Project title: Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
-    * Improved the classification accuracy by over 10% 
-    * Further analyzed the image features by network visualization
+    * Applied feature extraction methods to visualize meaningful information of OCT images.
 
 * Undergraduate Research Assistant, NTU, September 2017 - June 2019
   * Project title: Phase Detection Autofocus (PDAF)
@@ -40,7 +39,6 @@ Teaching experience
 ======
 * Teaching Assistan, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
   * EE1006: Cornerstone EECS Design and Development
-    * Instruct freshman students in designing a self-driving car that searches the map automatically
     * Introduce programming skills (Python, Arduino, and Bluetooth) to freshman students
 
 Publications
