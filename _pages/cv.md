@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD.pdf) <br/>
+[PDF version](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202009.pdf) <br/>
 
 Education
 ======
@@ -18,19 +18,18 @@ Education
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
-  * advisor: [Homer H. Chen](http://mpac.ee.ntu.edu.tw/) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
-  * Overall GPA: 3.88/4.30
+  * advisor: [Homer H. Chen](http://xdn41o56.ee.ntu.edu.tw/project.php) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
   
 Research experience
 ======
 * Full-time Research Assistant, NTU, 2019-present
   * Project title: Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
-    * Applied feature extraction methods to visualize meaningful information of OCT images.
+    * Provided heat map analysis for clinical features of skin cancer using CNN-based interpretation methods.
 
 * Undergraduate Research Assistant, NTU, September 2017 - June 2019
   * Project title: Phase Detection Autofocus (PDAF)
-    * Enhance the speed, accuracy, and robustness of PDAF algorithms.
-    * Awarded as the **1st Prize** in NTUEE Undergraduate Innovation Award among all undergraduate students
+    * Proposed a CNN-based approach that reaches the in-focus position in two lens movements regardless of noise in 95% of cases.
+    * Clarified the misconception that phase images is equivalent to two-view light field for PDAF
 
 * Summer Intern, Dept. of Multimedia in Mediatek, July 2018 - August 2018
   * Develop the framework to run and evaluate PDAF algorithms
@@ -39,7 +38,8 @@ Teaching experience
 ======
 * Teaching Assistan, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
   * EE1006: Cornerstone EECS Design and Development
-    * Introduce programming skills (Python, Arduino, and Bluetooth) to freshman students
+    * Designed the final project for freshmen students with 7 professors.
+    * Instructed 8 teams of students in implementing searching algorithm to self-driving cars.
 
 Publications
 ======
