@@ -1,5 +1,5 @@
 ---
-title: "Accelerate Phase Detection Autofocus"
+title: "Phase Detection Autofocus"
 collection: teaching
 type: "Image Processing"
 permalink: /teaching/PDAF
