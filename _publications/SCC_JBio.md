@@ -5,14 +5,14 @@ permalink: /publication/SCC_JBio
 
 date: 2020-09-01
 venue: 'Journal of Biophotonics'
-citation: '<b>Chi-Jui Ho</b>, Manuel Calderon‐Delgado, Chin‐Cheng Chan, Ming‐Yi Lin, Jeng‐Wei Tjiu, Sheng‐Lung Huang, and Homer H. Chen, "Detecting mouse squamous cell carcinoma from submicron full‐field optical coherence tomography images by deep learning," in <\i>Journal of Biophotonics<\i>, 2020, doi:  https://doi.org/10.1002/jbio.202000271'
+citation: '<b>Chi-Jui Ho</b>, Manuel Calderon‐Delgado, Chin‐Cheng Chan, Ming‐Yi Lin, Jeng‐Wei Tjiu, Sheng‐Lung Huang, and Homer H. Chen, "Detecting mouse squamous cell carcinoma from submicron full‐field optical coherence tomography images by deep learning," in <i>Journal of Biophotonics<i>, 2020, doi:  https://doi.org/10.1002/jbio.202000271'
 
 ---
 <img src='/images/OCT.jpg' width='600' > <br/>
 
 <br/>
 [<img src='/images/JBio.jpeg' width='120' >](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271)
-[IEEE link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271) 
+[ link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271) 
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf)
 [PDF link](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf) 
 <br/>
