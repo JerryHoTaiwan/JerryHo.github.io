@@ -19,6 +19,6 @@ My undergraduate research focused on phase detection autufocus. <br/>
 <img src='/images/NTU.png' width='120' >
 <img src='/images/MTK.jpg' width='150' > <br/>
 
-[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_v5.pdf) <br/>
+[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202009.pdf) <br/>
 
 Feel free to contact with me via email: hochirijay@gmail.com 
