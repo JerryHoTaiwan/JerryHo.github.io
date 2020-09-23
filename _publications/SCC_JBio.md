@@ -11,7 +11,7 @@ citation: '<b>Chi-Jui Ho</b>, Manuel Calderon‐Delgado, Chin‐Cheng Chan, Ming
 <img src='/images/OCT.jpg' width='600' > <br/>
 
 <br/>
-[<img src='/images/JBio.jpeg' width='120' >](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271)
+[<img src='/images/JBio.jpg' width='120' >](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271)
 [ link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202000271) 
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf)
 [PDF link](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf) 
