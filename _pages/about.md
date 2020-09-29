@@ -21,4 +21,5 @@ My undergraduate research focused on phase detection autufocus. <br/>
 
 [Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202009.pdf) <br/>
 
-Feel free to contact with me via email: hochirijay@gmail.com 
+Email address: hochirijay@gmail.com 
+UCSD email address: chh009@ucsd.edu
