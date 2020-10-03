@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* UC San Diego (will start from 2020 FALL)
-  * Will start Ph.D. study in Electrical and Computer Engineering with specialization in Signal and Image Processing.
+* UC San Diego 2020-
+  * Major in Electrical and Computer Engineering with specialization in Signal and Image Processing.
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
@@ -28,7 +28,7 @@ Research experience
 
 * Undergraduate Research Assistant, NTU, September 2017 - June 2019
   * Project title: Phase Detection Autofocus (PDAF)
-    * Proposed a CNN-based approach that reaches the in-focus position in two lens movements regardless of noise in 95% of cases.
+    * Proposed a CNN-based approach that reaches the in-focus position in two lens movements regardless of noise.
     * Clarified the misconception that phase images is equivalent to two-view light field for PDAF
 
 * Summer Intern, Dept. of Multimedia in Mediatek, July 2018 - August 2018
