@@ -53,8 +53,6 @@ Honors and Awards
 * **1st Prize** in NTUEE Undergraduate Innovation Award.
 * College Student Research Creativity Award in 2019 (Ranked top 10 % in 2000 funded projects)
 * College Student Research Scholarship (July 2018 - April 2019)
-* **1st Place** in the final project contest of Computer Vision course (see projects)
-* **1st Place** in the final project contest of Digital System Design course (see projects)
 
 Skills
 ======
