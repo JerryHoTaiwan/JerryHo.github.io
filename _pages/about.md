@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! <br> My name is Chi-Jui (Jerry) Ho. I am now a first year Ph.D. student at the Electrical and Computer Engineering Department of UC San Diego. <br/>
-I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. My research interests include image processing, computer vision, and machine learning. <br/>
-
-My undergraduate research focused on phase detection autufocus. <br/>
-[<img src='/images/youtube.png' width='60' >](https://www.youtube.com/watch?v=ApXMDT774aA) 
-[Here is the demo video](https://www.youtube.com/watch?v=ApXMDT774aA) <br/>
+Welcome! <br> My name is Chi-Jui (Jerry) Ho, a first year Ph.D. student at the Electrical and Computer Engineering Department of UC San Diego. <br/>
+I am now working with Prof. Truong Q. Nguyen and Prof. Nick Antipa. <br/>
+I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. My research interests include computational imaging and image correspondence estimation. <br/>
 
 <img src='/images/UCSD.png' width='150' >
 <img src='/images/NTU.png' width='120' >
