@@ -18,28 +18,26 @@ Education
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
-  * advisor: [Homer H. Chen](http://xdn41o56.ee.ntu.edu.tw/project.php) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
+  * advisor: [Homer H. Chen](http://mpac.ee.ntu.edu.tw/people.php) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
   
 Research experience
 ======
-* Full-time Research Assistant, NTU, 2019-present
-  * Project title: Deep Learning for Analysis of Optical Coherence Tomography (OCT) Images
-    * Provided heat map analysis for clinical features of skin cancer using CNN-based interpretation methods.
+* Graduate Research Student, UC San Diego, Sep. 2020 - present
+  * Project title: Multi-Temporal Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
+  * Project title: End-To-End Optical System Design (with Prof. Nicholas Antipa)
 
-* Undergraduate Research Assistant, NTU, September 2017 - June 2019
+* Research Assistant, NTU, Jul. 2019 - Aug. 2020
+  * Project title: SCC Classification of Optical Coherence Tomography (OCT) Images
+
+* Undergraduate Research Assistant, NTU, Sep. 2017 - Jun. 2019
   * Project title: Phase Detection Autofocus (PDAF)
-    * Proposed a CNN-based approach that reaches the in-focus position in two lens movements regardless of noise.
-    * Clarified the misconception that phase images is equivalent to two-view light field for PDAF
 
-* Summer Intern, Dept. of Multimedia in Mediatek, July 2018 - August 2018
-  * Develop the framework to run and evaluate PDAF algorithms
+* Summer Intern, Dept. of Multimedia in Mediatek, Jul. 2018 - Aug. 2018
 
 Teaching experience
 ======
-* Teaching Assistan, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
+* Teaching Assistant, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
   * EE1006: Cornerstone EECS Design and Development
-    * Designed the final project for freshmen students with 7 professors.
-    * Instructed 8 teams of students in implementing searching algorithm to self-driving cars.
 
 Publications
 ======
@@ -53,11 +51,4 @@ Honors and Awards
 * **1st Prize** in NTUEE Undergraduate Innovation Award.
 * College Student Research Creativity Award in 2019 (Ranked top 10 % in 2000 funded projects)
 * College Student Research Scholarship (July 2018 - April 2019)
-
-Skills
-======
-* Programming Language: Python, C++, Verilog, Matlab, Latex
-* Language: Chinese (native speaker), English (fluent)
-* Frameworks: Pytorch, OpenCV
-
   
