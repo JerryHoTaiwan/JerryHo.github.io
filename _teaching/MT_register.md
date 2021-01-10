@@ -2,7 +2,7 @@
 title: "Multi-Temporal Image Registration"
 collection: teaching
 type: "Biomedical Imaging"
-permalink: /teaching/OCT
+permalink: /teaching/MT_register
 excerpt: "Align image sequences in multi-temporal"
 venue: "UC San Deigo"
 date: 2020-09-01
