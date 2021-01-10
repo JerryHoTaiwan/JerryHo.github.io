@@ -18,7 +18,7 @@ Education
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
-  * advisor: [Homer H. Chen](http://mpac.ee.ntu.edu.tw/people.php) and [Sheng-Lung Huang](http://gipo.ntu.edu.tw/p4disquisition-detail.php?sn=19)
+  * advisor: Homer H. Chen and Sheng-Lung Huang
   
 Research experience
 ======
