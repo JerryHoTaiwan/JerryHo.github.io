@@ -4,7 +4,7 @@ collection: teaching
 type: "Biomedical Imaging"
 permalink: /teaching/OCT
 excerpt: "Align image sequences in multi-temporal"
-venue: "National Taiwan University"
+venue: "UC San Deigo"
 date: 2020-09-01
 location: "San Diego, USA"
 ---
