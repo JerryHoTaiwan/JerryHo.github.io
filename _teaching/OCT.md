@@ -1,5 +1,5 @@
 ---
-title: "Optical Coherence Tomography"
+title: "Squamous Cell Carcinoma Classification"
 collection: teaching
 type: "Biomedical Imaging"
 permalink: /teaching/OCT
