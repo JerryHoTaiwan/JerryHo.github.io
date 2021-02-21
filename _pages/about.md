@@ -16,7 +16,7 @@ I received my B.S. degree at electrical engineering of National Taiwan Universit
 <img src='/images/NTU.png' width='120' >
 <img src='/images/MTK.jpg' width='150' > <br/>
 
-[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202101.pdf) <br/>
+[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202102.pdf) <br/>
 
 Email address: hochirijay@gmail.com <br/>
 UCSD email address: chh009@ucsd.edu <br/>
