@@ -23,7 +23,7 @@ Education
 Research experience
 ======
 * Graduate Research Student, UC San Diego, Sep. 2020 - present
-  * Project title: Multi-Temporal Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
+  * Project title: MRI Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
   * Project title: End-To-End Optical System Design (with Prof. Nicholas Antipa)
 
 * Research Assistant, NTU, Jul. 2019 - Aug. 2020
