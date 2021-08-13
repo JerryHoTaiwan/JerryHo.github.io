@@ -3,7 +3,7 @@ title: "A Convolutional Neural Network Pipeline For Multi-Temporal Retinal Image
 collection: publications
 permalink: /publication/Retinal_Reg
 
-date: 2020-09-01
+date: 2021-08-01
 venue: 'International SoC Design Conference'
 citation: '<b>Chi-Jui Ho</b>, Yiqian Wang, Junkang Zhang, Truong Nguyen, Cheolhong An, "A Convolutional Neural Network Pipeline For Multi-Temporal Retinal Image Registration," in <i>International SoC Design Conference</i>, 2021'
 
