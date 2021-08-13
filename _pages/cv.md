@@ -9,22 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202102.pdf) <br/>
+[PDF version](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202108.pdf) <br/>
 
 Education
 ======
 * UC San Diego 2020-
   * Major in Electrical and Computer Engineering with specialization in Signal and Image Processing.
+  * GPA: 4.00/4.00
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
   * advisor: Homer H. Chen and Sheng-Lung Huang
+  * GPA: 3.88/4.30
   
 Research experience
 ======
 * Graduate Research Student, UC San Diego, Sep. 2020 - present
-  * Project title: MRI Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
   * Project title: End-To-End Optical System Design (with Prof. Nicholas Antipa)
+  * Project title: MRI Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
 
 * Research Assistant, NTU, Jul. 2019 - Aug. 2020
   * Project title: SCC Classification of Optical Coherence Tomography (OCT) Images
