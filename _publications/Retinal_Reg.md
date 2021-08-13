@@ -11,8 +11,8 @@ citation: '<b>Chi-Jui Ho</b>, Yiqian Wang, Junkang Zhang, Truong Nguyen, Cheolho
 <img src='/images/overview_v3.png' width='600' > <br/>
 
 <br/>
-[<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf)
-[PDF link](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf) 
+[<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/ISOCC_Jerry_v6.pdf)
+[PDF link](http://JerryHoTaiwan.github.io/files/ISOCC_Jerry_v6.pdf) 
 <br/>
 {% comment %} 
 {% endcomment %}
