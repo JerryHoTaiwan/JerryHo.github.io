@@ -8,7 +8,7 @@ venue: 'International SoC Design Conference'
 citation: '<b>Chi-Jui Ho</b>, Yiqian Wang, Junkang Zhang, Truong Nguyen, Cheolhong An, "A Convolutional Neural Network Pipeline For Multi-Temporal Retinal Image Registration," in <i>International SoC Design Conference</i>, 2021'
 
 ---
-<img src='/images/overview_v3.jpg' width='600' > <br/>
+<img src='/images/overview_v3.png' width='600' > <br/>
 
 <br/>
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/SCC_JB.pdf)
