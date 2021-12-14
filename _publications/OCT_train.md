@@ -8,10 +8,10 @@ venue: 'Computerized Medical Imaging and Graphics'
 citation: '<b>Chi-Jui Ho</b>, Manuel Calderon‐Delgado, Ming‐Yi Lin, Jeng‐Wei Tjiu, Sheng‐Lung Huang, and Homer H. Chen, "Classification of squamous cell carcinoma from FF-OCT images: Data selection and progressive model construction," in <i>omputerized Medical Imaging and Graphics</i>, 2021, doi:  https://doi.org/10.1016/j.compmedimag.2021.101992'
 
 ---
-<img src='/images/OCT.jpg' width='600' > <br/>
+<img src='/images/OCT_train.jpg' width='600' > <br/>
 
 <br/>
-[<img src='/images/OCT_train.jpg' width='120' >](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415)
+[<img src='/images/CMIG.jpg' width='120' >](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415)
 [ link](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415) 
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/OCT_train.pdf)
 [PDF link](http://JerryHoTaiwan.github.io/files/OCT_train.pdf) 
