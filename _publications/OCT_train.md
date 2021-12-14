@@ -11,7 +11,7 @@ citation: '<b>Chi-Jui Ho</b>, Manuel Calderon‐Delgado, Ming‐Yi Lin, Jeng‐W
 <img src='/images/graphical_abstract.jpg' width='600' > <br/>
 
 <br/>
-[<img src='/images/CMIG.gif' width='120' >](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415)
+[<img src='/images/CMIG.gif' width='60' >](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415)
 [ link](https://www.sciencedirect.com/science/article/abs/pii/S0895611121001415) 
 [<img src='/images/pdf.png' width='60' >](http://JerryHoTaiwan.github.io/files/OCT_train.pdf)
 [PDF link](http://JerryHoTaiwan.github.io/files/OCT_train.pdf) 
