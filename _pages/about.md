@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! <br> My name is Chi-Jui (Jerry) Ho, a first year Ph.D. student at the Electrical and Computer Engineering Department of UC San Diego. <br/>
-I am now working with Prof. Truong Q. Nguyen and Prof. Nick Antipa. <br/>
-I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. My research interests include computational imaging and image correspondence estimation.<br/>
+Welcome! <br> My name is Chi-Jui (Jerry) Ho, a second year Ph.D. student at the Electrical and Computer Engineering Department of UC San Diego. <br/>
+I am now working with Prof. [Nick Antipa](http://nickantipa.com) and Prof. [Truong Q. Nguyen](http://videoprocessing.ucsd.edu). <br/> My research interests include computational imaging and medical image registration.<br/>
+Before joining UC San Diego, I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019. 
 When I am not working, I love playing and watching baseball. My another big hobby is Go, where I am a three-dan amateur player in Taiwan. <br/>
 [My highlight moment of baseball](https://www.youtube.com/watch?v=KcCYCNIB8ms&t=3727s) <br/>
 
@@ -20,6 +20,5 @@ When I am not working, I love playing and watching baseball. My another big hobb
 
 [Curriculum Vitae](http://JerryHoTaiwan.github.io/files/CV_Chi_Jui_Ho_UCSD_202109.pdf) <br/>
 
-Email address: hochirijay@gmail.com <br/>
-UCSD email address: chh009@ucsd.edu <br/>
-Last update: 01/05/2021
+Email address: chh009@ucsd.edu <br/>
+Last update: 03/18/2022
