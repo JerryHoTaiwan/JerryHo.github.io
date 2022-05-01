@@ -25,7 +25,7 @@ Education
 Research experience
 ======
 * Graduate Research Student, UC San Diego, Sep. 2020 - present
-  * Project title: End-To-End Optical System Design (with Prof. Nicholas Antipa)
+  * Project title: Compressed Sensing on Spectroscopic Reconstruction (with Prof. Nicholas Antipa)
   * Project title: MRI Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
 
 * Research Assistant, NTU, Jul. 2019 - Aug. 2020
@@ -36,17 +36,19 @@ Research experience
 
 * Summer Intern, Dept. of Multimedia in Mediatek, Jul. 2018 - Aug. 2018
 
-Teaching experience
-======
-* Teaching Assistant, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
-  * EE1006: Cornerstone EECS Design and Development
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Academic Survice
+======
+* Teaching Assistant, Dept. of Electrical Engineering of NTU, 2018 Spring and 2019 Spring
+  * EE1006: Cornerstone EECS Design and Development
+* Journa Reviewer
+  * IEEE Access
+ 
 Honors and Awards
 ======
 * Electrical and Computer Engineering Department Fellowship, UCSD.
