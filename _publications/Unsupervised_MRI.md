@@ -5,7 +5,7 @@ permalink: /publication/Unsupervised_MRI
 
 date: 2022-08-01
 venue: 'IEEE Access'
-citation: '<b>Chi-Jui Ho</b>, Soan T. M. Duong, Yiqian Wang, Chanh D. Tr. Nguyen, Bieu Q. Bui, Steven Q. H. Truong, Truong Nguyen, Cheolhong An, "A Convolutional Neural Network Pipeline For Multi-Temporal Retinal Image Registration," in <i>International SoC Design Conference</i>, 2021'
+citation: '<b>Chi-Jui Ho</b>, Soan T. M. Duong, Yiqian Wang, Chanh D. Tr. Nguyen, Bieu Q. Bui, Steven Q. H. Truong, Truong Nguyen, Cheolhong An, "A Convolutional Neural Network Pipeline For Multi-Temporal Retinal Image Registration," in <i>IEEE Access</i>, 2022, doi: 10.1109/ACCESS.2022.3199379.'
 
 ---
 <img src='/images/overview_v8.png' width='600' > <br/>
