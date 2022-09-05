@@ -25,17 +25,20 @@ Education
   
 Research experience
 ======
-* Graduate Research Student, UC San Diego, Sep. 2020 - present
-  * Project title: Compressed Sensing on Spectroscopic Reconstruction (with Prof. Nicholas Antipa)
-  * Project title: MRI Image Registration (with Prof. Truong Q. Nguyen and Prof. Cheolhong An)
+* Graduate Research Student, Computational Imaging Ststen Lab, UCSD, Sep. 2020 - (with Prof. Nick Antipa)
+  * Incorporate differentiable rendering and Luneberg-Kline wave approximation
+  * Apply compressed sensing to spectroscopic reconstruction
 
-* Research Assistant, NTU, Jul. 2019 - Aug. 2020
-  * Project title: SCC Classification of Optical Coherence Tomography (OCT) Images
+* Graduate Research Student, Video Processing Lab, UCSD, Sep. 2020 - Mar. 2022 (with Prof. Truong Nguyen)
+  * Proposed an unsupervised learning image registration model to align rectal data on 3D magnetic resonance imaging
 
-* Undergraduate Research Assistant, NTU, Sep. 2017 - Jun. 2019
-  * Project title: Phase Detection Autofocus (PDAF)
+* Research Assistent, Multimedia Processing and Communications Lab, NTU, Sep. 2017 - Mar. 2020 (with Prof. Homer Chen)
+  * Developed a classifier to identify clinical stage of optical coherence tomography imaging
+  * Proposed a deep learning based approach to phase detection autofocus to enhance the robustness
+to noise
 
 * Summer Intern, Dept. of Multimedia in Mediatek, Jul. 2018 - Aug. 2018
+  * Developed an evaluation tool for autofocus
 
 Publications
 ======
