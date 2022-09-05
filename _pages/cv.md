@@ -25,7 +25,7 @@ Education
   
 Research experience
 ======
-* Graduate Research Student, Computational Imaging Ststen Lab, UCSD, Sep. 2020 - (with Prof. Nick Antipa)
+* Graduate Research Student, Computational Imaging System Lab, UCSD, Sep. 2020 - (with Prof. Nick Antipa)
   * Incorporate differentiable rendering and Luneberg-Kline wave approximation
   * Apply compressed sensing to spectroscopic reconstruction
 
