@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://JerryHoTaiwan.github.io/files/Resume_Jerry.pdf) <br/>
+[PDF version](http://JerryHoTaiwan.github.io/files/Resume_Jerry_0922.pdf) <br/>
 
 Education
 ======
 * UC San Diego 2020-
   * Major in Electrical and Computer Engineering with specialization in Signal and Image Processing.
-  * GPA: 4.00/4.00
+  * Advisor: Nick Antipa
+  * GPA: 3.90/4.00
 
 * National Taiwan University (NTU), 2015-2019
   * Recieved B.S. degree in Dept. of Electrical Engineering
-  * advisor: Homer H. Chen and Sheng-Lung Huang
+  * Advisor: Homer H. Chen and Sheng-Lung Huang
   * GPA: 3.88/4.30
   
 Research experience
