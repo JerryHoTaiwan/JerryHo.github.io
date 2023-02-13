@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](http://JerryHoTaiwan.github.io/files/Resume_Jerry_0922.pdf) <br/>
+[PDF version](http://JerryHoTaiwan.github.io/files/Jerry_CV_0223.pdf) <br/>
 
 Education
 ======
