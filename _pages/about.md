@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome! <br> My name is Chi-Jui (Jerry) Ho, a Ph.D. student at the Electrical and Computer Engineering Department of UC San Diego. <br/>
-I am a 3rd year Ph.D. student in [Computational Imaging System Lab](https://sites.google.com/eng.ucsd.edu/ucsd-computational-imaging/) and asvised by Prof. [Nick Antipa](http://nickantipa.com). My research interests include end-to-end optimization, wave optics simulation, and computational photography. I used to rotate in Video Processing Lab, where I worked on medical image registration under Prof. [Truong Nguyen's](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen) advice.<br/>
+I am a 3rd year Ph.D. student in [Computational Imaging System Lab](https://sites.google.com/eng.ucsd.edu/ucsd-computational-imaging/) and advised by Prof. [Nick Antipa](http://nickantipa.com). My research interests include end-to-end optimization, wave optics simulation, and computational photography. I used to rotate in Video Processing Lab, where I worked on medical image registration under Prof. [Truong Nguyen's](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen) advice.<br/>
 Before joining UC San Diego, I received my B.S. degree at electrical engineering of National Taiwan University (NTU) in 2019, where I also worked on computational photography. 
 When I am not working, I love playing and watching baseball. My another big hobby is Go, where I am a three-dan amateur player in Taiwan. <br/>
 [My highlight moment of baseball](https://www.youtube.com/watch?v=KcCYCNIB8ms&t=3727s) <br/>
