@@ -21,7 +21,7 @@ Work Experience: <br/>
 <img src='/images/NTU.png' width='120' >
 <img src='/images/MTK.jpg' width='150' > <br/>
 
-[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/Jerry_CV_0223.pdf) <br/>
+[Curriculum Vitae](http://JerryHoTaiwan.github.io/files/Jerry_CV_0924.pdf) <br/>
 
 Email address: chh009@ucsd.edu <br/>
 Last update: 10/18/2024
